@@ -1,0 +1,21 @@
+.form{
+    text-align: center;
+}
+
+.register{
+    
+   padding:  17px 137px 20px 232px;
+   position: relative;
+}
+
+.login{
+   
+  text-align:center;
+  
+  
+
+    
+}
+body{
+    background-color: aqua;
+}
